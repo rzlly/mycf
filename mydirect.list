@@ -1,1 +1,7 @@
+# 指定直连
+DOMAIN,time.apple.com
+DOMAIN-SUFFIX,kiwik.cn
+DOMAIN-SUFFIX,kiwiot.com
+DOMAIN-SUFFIX,kwicdn.com
+
 
