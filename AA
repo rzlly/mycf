@@ -109,17 +109,15 @@
             "type": "dns"
         },
         {
+            "domain_strategy":"",
+            "method":"aes-256-gcm",
+            "password":"IloveSSR@niuniuly",
+            "server":"nest.186681.xyz",
+            "server_port":1883,
             "tag": "🇹🇼 TW",
-            "protocol": "shadowsocks",
-            "port": 1883,
-            "settings": {
-                "method": "aes-256-gcm",
-                "password": "IloveSSR@niuniuly",
-                "network": "tcp,udp",
-                "level": 1,
-                "ota": false
-            }
-        },
+            "type":"shadowsocks",
+            "udp_over_tcp":false
+        }，
         {
             "outbounds": [
                 "DIRECT"
