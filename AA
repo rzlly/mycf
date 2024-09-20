@@ -113,7 +113,7 @@
             "method":"aes-256-gcm",
             "password":"IloveSSR@niuniuly",
             "server":"zdkob1.186681.xyz",
-            "server_port":1883,
+            "server_port":110,
             "tag": "🇹🇼 TW",
             "type":"shadowsocks",
             "udp_over_tcp":false
