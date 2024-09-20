@@ -117,7 +117,7 @@
             "tag": "🇹🇼 TW",
             "type":"shadowsocks",
             "udp_over_tcp":false
-        }，
+        },
         {
             "outbounds": [
                 "DIRECT"
